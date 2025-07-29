@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Ishaan
+
+I'm a second-year Computer Science and Statistics student at the University of Toronto who loves building things. Most of my projects are inspired by software I wish existed or tools I personally want to use.
+
+I'm currently working on lofi-terminal — a terminal-based app that lets you add, manage, and stream YouTube audio directly from your terminal with a built-in CLI interface.
+
+The languages I mainly use are Python and JavaScript, and I'm trying to learn C++. 
+
+Feel free to open issues, stage commits, or branch any of the files. Contributions and feedback are always welcome!
 
 <!--
 **Sendhilishaan/Sendhilishaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
