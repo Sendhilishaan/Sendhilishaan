@@ -1,8 +1,8 @@
-## Hi, I'm Ishaan
+# Hi, I'm Ishaan
 
 I'm a second-year Computer Science and Statistics student at the University of Toronto who loves building things. Most of my projects are inspired by software I wish existed or tools I personally want to use. I've recently gotten interested in machine learning, and am self learning through building projects and reading books.
 
-I'm currently learning ML and starting a regression visualiser in Python using only NumPy and MatPLotLib
+I'm currently learning ML and starting a regression visualiser in Python using NumPy, MatPLotLib, and Pandas.
 
 The languages I mainly use are Python and JavaScript, and I'm trying to learn C++ and Lua.
 
