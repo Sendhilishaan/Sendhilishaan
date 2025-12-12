@@ -1,24 +1,9 @@
 # Hi, I'm Ishaan
 
-I'm a second-year Computer Science and Statistics student at the University of Toronto who loves building things. Most of my projects are inspired by software I wish existed or tools I personally want to use. I've recently gotten interested in machine learning, and am self learning through building projects and reading books.
+I'm a second-year Computer Science and Statistics student at the University of Toronto. Most of my projects are inspired by software I wish existed or tools I personally want to use. I've recently gotten interested in machine learning, and am self learning through building projects and reading books.
 
-I'm currently learning ML and starting a regression visualiser in Python using NumPy, MatPLotLib, and Pandas.
+I'm currently trying to learn how to make my own guitar tuner TUI.
 
-The languages I mainly use are Python and JavaScript, and I'm trying to learn C++ and Lua.
+The languages I mainly use are Python and JavaScript, and I'm trying to learn Lua and Rust.
 
 Feel free to open issues, stage commits, or branch any of the files. Contributions and feedback are always welcome!
-
-<!--
-**Sendhilishaan/Sendhilishaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
