@@ -6,4 +6,4 @@ I'm currently trying to learn FFT, and how to make my own guitar tuner TUI.
 
 The languages I mainly use are Python and C/C++, and I'm trying to learn Rust.
 
-Feel free to open issues, stage commits, or branch any of the files. Contributions and feedback are always welcome!
+Contributions and feedback are always welcome, especially on my C++ projects.
