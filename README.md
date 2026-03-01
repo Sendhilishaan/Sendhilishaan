@@ -2,7 +2,7 @@
 
 I'm a second-year computer science and math student at the University of Toronto. Most of my projects are inspired by algorithms or simulations I find interesting, as well as software I wish existed.
 
-I'm currently working on a guitar tuner TUI, and a file explorer.
+I'm currently working on hzview, a TUI audio visualiser inspired by cava. Eventually I want to make my own guitar tuner.
 
 The languages I mainly use are Python and C/C++, and I'm trying to learn Rust.
 
