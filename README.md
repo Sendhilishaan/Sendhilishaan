@@ -1,11 +1,9 @@
 # Hi, I'm Ishaan
 
-I'm a second-year computer science and math student.
+I am a third-year computer science and math student.
 
-I'm currently working on hzview, a TUI audio visualiser inspired by cava, and a machine learning library with a python api in C
+I'm currently working on camel, a tensor and autograd library inspired by tinygrad. I would love to get it working on more hardware!
 
-The languages I mainly use are Python and C. I'm trying to learn Rust and C++.
+The languages I mainly use are Python, C, and C++. I'm trying to learn Rust and am always learning C++.
 
-Contributions and feedback are always welcome, especially on my C++ projects.
-
-I love source movement!
+Contributions and feedback are always welcome!
