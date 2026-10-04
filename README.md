@@ -4,4 +4,5 @@
 - I like to build machine learning models
 - The languages I mainly use are Python, C, and C++
 
-I am currently working on TensorMIST!
+
+:)
